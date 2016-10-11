@@ -4,8 +4,8 @@ Pod::Spec.new do |s|
   s.summary      = "基于原作者修改的  自己用用"
   s.homepage     = "https://github.com/firestory/ZJHMSegmentedControl"
   s.license      = { :type => 'MIT', :file => 'LICENSE.md' }
-  s.author       = { "Hesham Abd-Elmegid" => "hesham.abdelmegid@gmail.com" }
-  s.source       = { :git => "https://github.com/HeshamMegid/HMSegmentedControl.git", :tag => "v1.5.3" }
+  s.author       = { "NiiLove" => "firestory@sina.com" }
+  s.source       = { :git => "https://github.com/firestory/ZJHMSegmentedControl.git"}
   s.platform     = :ios, '7.0'
   s.requires_arc = true
   s.source_files = 'ZJHMSegmentedControl/*.{h,m}'
