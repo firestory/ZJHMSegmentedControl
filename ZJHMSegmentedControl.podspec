@@ -8,6 +8,6 @@ Pod::Spec.new do |s|
   s.source       = { :git => "https://github.com/firestory/ZJHMSegmentedControl.git", :tag => "1.0.0"}
   s.platform     = :ios, '7.0'
   s.requires_arc = true
-  s.source_files = 'class/HMSegmentedControl/*.{h,m}'
+  s.source_files = 'class/**/*.{h,m}'
   s.framework  = 'QuartzCore'
 end
