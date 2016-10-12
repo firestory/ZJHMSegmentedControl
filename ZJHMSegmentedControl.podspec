@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name         = "HMSegmentedControl"
   s.version      = "1.0.0"
-  s.summary      = "基于原作者修改的  自己用用"
+  s.summary      = "personal use"
   s.homepage     = "https://github.com/firestory/ZJHMSegmentedControl"
   s.license      = { :type => 'MIT', :file => 'LICENSE.md' }
   s.author       = { "NiiLove" => "firestory@sina.com" }
