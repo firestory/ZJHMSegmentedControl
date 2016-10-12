@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name         = "HMSegmentedControl"
+  s.name         = "ZJHMSegmentedControl"
   s.version      = "1.0.0"
   s.summary      = "personal use"
   s.homepage     = "https://github.com/firestory/ZJHMSegmentedControl"
